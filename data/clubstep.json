@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Clubstep",
+    "author": "Robtop",
+    "creators": [],
+    "verifier": "Robtop",
+    "verification": "https://youtu.be/VInQkeec188?si=6QbH5QVEb9UvDSiQ",
+    "percentToQualify": "55",
+    "password": "N/A",
+    "records": [
+        {
+            "user": "DarkOFC73",
+            "link": "_blank",
+            "percent": 83,
+            "hz": 75
+        }
+    ]
+}
