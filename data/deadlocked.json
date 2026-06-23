@@ -1,0 +1,18 @@
+{
+    "id": "N/A",
+    "name": "Deadlocked",
+    "author": "RobTop",
+    "creators": [""],
+    "verifier": "",
+    "verification": "https://youtu.be/I3LFTGTIWoI?si=498c7jFwvCBeULn_",
+    "percentToQualify": 50,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "DarkOFC73",
+            "link": "_blank",
+            "percent": 46,
+            "hz": 75
+        }
+    ]
+}
